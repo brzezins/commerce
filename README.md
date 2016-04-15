@@ -8,3 +8,4 @@ What I used to convert a PSD file into working responsive website?
  - HTML5, CSS, jQuery
  - Customized Bootstrap:  Grid system, Responsive utilities, Carousel
 
+[See live demo website](http://brzezins.github.io/commerce/)
